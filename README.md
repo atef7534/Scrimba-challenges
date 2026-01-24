@@ -4,7 +4,6 @@ A collection of **HTML & CSS projects** built to practice layouts, responsivenes
 
 Each project is organized in its own folder and includes a preview of the final result.
 
----
 
 ## 📁 Projects
 
@@ -15,7 +14,6 @@ Each project is organized in its own folder and includes a preview of the final 
 
 ![Landing Page Preview](01-landing-page/preview.png)
 
----
 
 ### 02️⃣ Pricing Table
 - **Description:** Clean pricing table layout
@@ -24,7 +22,6 @@ Each project is organized in its own folder and includes a preview of the final 
 
 ![Pricing Table Preview](02-pricing-table/preview.png)
 
----
 
 ### 03️⃣ Login Form
 - **Description:** Modern login form UI
@@ -33,7 +30,6 @@ Each project is organized in its own folder and includes a preview of the final 
 
 ![Login Form Preview](03-login-form/preview.png)
 
----
 
 ## 🛠 Skills Practiced
 - Semantic HTML
@@ -41,7 +37,6 @@ Each project is organized in its own folder and includes a preview of the final 
 - Responsive Design
 - UI Design Fundamentals
 
----
 
 ## 📌 Author
 **Atef Yasser**  
