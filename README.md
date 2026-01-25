@@ -2,8 +2,8 @@
 
 <p align="right">
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
-  <img src="https://img.shields.io/badge/html-15%25-orange" />
-  <img src="https://img.shields.io/badge/css-85%25-blue" />
+  <img src="https://img.shields.io/badge/hyper_text_markup_language-15%25-orange" />
+  <img src="https://img.shields.io/badge/cascading_style_sheet-85%25-blue" />
 </p>
 
 <p align="left">
