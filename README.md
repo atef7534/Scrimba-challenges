@@ -1,10 +1,10 @@
-<h1 align="center">🚀 HTML & CSS Challenges — Scrimba</h1>
+<h1 align="left">🚀 HTML & CSS Challenges — Scrimba</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-<p align="center">
+<p align="left">
   A curated collection of my solutions to the
   <a href="https://scrimba.com/css-challenges-c02p">Scrimba CSS Challenges</a>,
   focused on mastering layouts, responsiveness, and modern UI techniques.
