@@ -1,0 +1,36 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+:root {
+  --white: #ffffff;
+  --red: #bc022c;
+  --flag-height: 200px;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Start styling */
+.flag {
+  width: calc(var(--flag-height) * 3 / 2);
+  height: var(--flag-height);
+  background-color: var(--white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  width: calc(var(--flag-height) * 3 / 5);
+  height: calc(var(--flag-height) * 3 / 5);
+  background-color: var(--red);
+  border-radius: 50%;
+}

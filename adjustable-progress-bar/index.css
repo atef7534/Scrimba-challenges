@@ -1,0 +1,62 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --stage-1: 25%;
+  --stage-2: 50%;
+  --stage-3: 75%;
+  --stage-4: 100%;
+  --progbar-width: 200px;
+  --progbar-height: 25px;
+  --progbar-bg: lightgray;
+  --stage-1-bg: red;
+  --stage-2-bg: orangered;
+  --stage-3-bg: greenyellow;
+  --stage-4-bg: green;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* start styling */
+.progress-bar {
+  width: var(--progbar-width);
+  height: var(--progbar-height);
+  background-color: var(--progbar-bg);
+  border-radius: var(--progbar-height);
+  position: relative;
+}
+
+.prog-status {
+  position: absolute;
+  left: 0;
+  height: var(--progbar-height);
+  border-radius: var(--progbar-height);
+}
+
+.stage-1 {
+  background-color: var(--stage-1-bg);
+  width: var(--stage-1);
+}
+
+.stage-2 {
+  background-color: var(--stage-2-bg);
+  width: var(--stage-2);
+}
+
+.stage-3 {
+  background-color: var(--stage-3-bg);
+  width: var(--stage-3);
+}
+
+.stage-4 {
+  background-color: var(--stage-4-bg);
+  width: var(--stage-4);
+}

@@ -1,0 +1,52 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+}
+
+:root {
+  --card-height: 200px;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* start styling */
+.card {
+  border: 1px solid black;
+  border-radius: 6px;
+  height: var(--card-height);
+  width: calc(var(--card-height) * 2 / 3);
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  padding: 10px;
+}
+
+.top,
+.bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.top div:last-child,
+.bottom div:last-child {
+  font-size: 1.6rem;
+  line-height: 0.4;
+}
+
+.center {
+  text-align: center;
+  font-size: 6rem;
+  line-height: var(--card-height);
+}
+
+.bottom {
+  align-self: flex-end;
+  transform: rotate(180deg);
+}

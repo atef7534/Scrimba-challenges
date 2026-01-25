@@ -1,0 +1,55 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+:root {
+  --orange: #e15307;
+  --white: #ffffff;
+  --green: #10af2a;
+  --flag-height: 200px;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Start Styling */
+.flag {
+  display: flex;
+  flex-direction: column;
+  width: calc(var(--flag-height) * 7 / 6);
+  height: var(--flag-height);
+}
+
+.stripe {
+  width: 100%;
+  height: var(--flag-height);
+}
+
+.orange {
+  background-color: var(--orange);
+}
+
+.white {
+  background-color: var(--white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  width: calc(var(--flag-height) / 3 * 0.85);
+  height: calc(var(--flag-height) / 3 * 0.85);
+  border-radius: 50%;
+  background-color: var(--orange);
+}
+
+.green {
+  background-color: var(--green);
+}

@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg-color: #5134ff;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: arial;
+}
+
+.container {
+  font-size: 2.5rem;
+  position: relative;
+  font-weight: bold;
+}
+.container::after {
+  content: "";
+  animation: change-word 6s infinite;
+  background-color: var(--bg-color);
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 5px;
+}
+
+/* Start styling */
+@keyframes change-word {
+  0% {
+    content: "Football";
+  }
+  25% {
+    content: "Entertainment";
+  }
+  50% {
+    content: "Coding";
+  }
+  75% {
+    content: "Technology";
+  }
+  100% {
+    content: "Football";
+  }
+}
