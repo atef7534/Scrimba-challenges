@@ -39,3 +39,41 @@
 ## 📸 Challenge Results
 
 Below are previews showcasing the final results of each challenge:
+<table align="center">
+  <tr>
+    <td><img src="images/img-1.png" /></td>
+    <td><img src="images/img-2.png" /></td>
+    <td><img src="images/img-3.png" /></td>
+    <td><img src="images/img-4.png" /></td>
+    <td><img src="images/img-5.png" /></td>
+  </tr>
+  <tr>
+    <td><img src="images/img-6.png" /></td>
+    <td><img src="images/img-7.png" /></td>
+    <td><img src="images/img-8.png" /></td>
+    <td><img src="images/img-9.png" /></td>
+    <td><img src="images/img-10.png" /></td>
+  </tr>
+  <tr>
+    <td><img src="images/img-11.png" /></td>
+    <td><img src="images/img-12.png" /></td>
+    <td><img src="images/img-13.png" /></td>
+    <td><img src="images/img-14.png" /></td>
+    <td><img src="images/img-15.png" /></td>
+  </tr>
+  <tr>
+    <td><img src="images/img-16.png" /></td>
+    <td><img src="images/img-17.png" /></td>
+    <td><img src="images/img-18.png" /></td>
+    <td><img src="images/img-19.png" /></td>
+    <td><img src="images/img-20.png" /></td>
+  </tr>
+  <tr>
+    <td><img src="images/img-21.png" /></td>
+    <td><img src="images/img-22.png" /></td>
+    <td><img src="images/img-23.png" /></td>
+    <td><img src="images/img-24.png" /></td>
+    <td><img src="images/img-25.png" /></td>
+  </tr>
+</table>
+
