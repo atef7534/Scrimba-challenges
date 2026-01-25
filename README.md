@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" />
 </p>
 
 ## ✨ What This Repo Offers
@@ -22,7 +22,7 @@
 - 👀 Visual previews for every challenge
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" />
 </p>
 ## 🧪 How to Get the Most Value
 
@@ -34,7 +34,7 @@
 > **Tip:** Learning happens when you struggle a bit — don’t skip straight to the solution 😉
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" />
 </p>
 
 ## 📸 Challenge Results
