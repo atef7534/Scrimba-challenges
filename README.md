@@ -19,7 +19,7 @@
 - 🎯 Practical focus on real-world CSS patterns
 - 👀 Visual previews for every challenge
 
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" />
 </p>
 ## 🧪 How to Get the Most Value
@@ -31,7 +31,7 @@
 
 > **Tip:** Learning happens when you struggle a bit — don’t skip straight to the solution 😉
 
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" />
 </p>
 
