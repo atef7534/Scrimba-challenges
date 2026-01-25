@@ -21,7 +21,7 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" />
 </p>
-## 🧪 How to Get the Most Value
+<h2>🧪 How to Get the Most Value</h2>
 
 1. Attempt each challenge on your own.
 2. Review the instructor’s explanation if needed.
