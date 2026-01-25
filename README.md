@@ -1,4 +1,4 @@
-<h1 align="left">🚀 HTML & CSS Challenges — Scrimba</h1>
+<h1 align="left" style="border: none">🚀 HTML & CSS Challenges — Scrimba</h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
