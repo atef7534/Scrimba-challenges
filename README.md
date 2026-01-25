@@ -12,6 +12,7 @@
 
 <p align="right">
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
+  <img src="https://img.shields.io/badge/coverage-95%25-orange" />
 </p>
 
 ## ✨ What This Repo Offers
