@@ -11,8 +11,7 @@
   focused on mastering layouts, responsiveness, and modern UI techniques.
 </p>
 
-
-## ✨ What This Repo Offers
+## ✨What This Repo Offers
 
 - ✅ Fully completed CSS challenges
 - 🧠 Independent problem-solving with optimized refinements
