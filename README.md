@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
   <img src="https://img.shields.io/badge/hyper_text_markup_language-35.4%25-orange" />
   <img src="https://img.shields.io/badge/cascading_style_sheet-61%25-blue" />
+  <img src="https://img.shields.io/badge/javascript-3.6%25-yellow" />
 </p>
   
   [![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff)](#)
