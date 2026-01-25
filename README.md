@@ -1,7 +1,9 @@
 <h1 align="left">🚀 HTML & CSS Challenges — Scrimba</h1>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+<p align="right">
+  <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
+  <img src="https://img.shields.io/badge/html-15%25-orange" />
+  <img src="https://img.shields.io/badge/css-85%25-blue" />
 </p>
 
 <p align="left">
@@ -10,10 +12,6 @@
   focused on mastering layouts, responsiveness, and modern UI techniques.
 </p>
 
-<p align="right">
-  <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
-  <img src="https://img.shields.io/badge/coverage-95%25-orange" />
-</p>
 
 ## ✨ What This Repo Offers
 
