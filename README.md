@@ -1,6 +1,6 @@
 <h1 align="left">🚀 HTML & CSS Challenges — Scrimba</h1>
 
-<p align="right">
+<p align="left">
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
   <img src="https://img.shields.io/badge/hyper_text_markup_language-15%25-orange" />
   <img src="https://img.shields.io/badge/cascading_style_sheet-85%25-blue" />
