@@ -60,7 +60,7 @@ Below are previews showcasing the final results of each challenge:
     <td><a href="https://atef7534.github.io/Scrimba-challenges/flag-of-sweden/index.html"><img src="images/img-12.png" /></a></td>
     <td><a href="https://atef7534.github.io/Scrimba-challenges/flag-of-switzerland/index.html"><img src="images/img-13.png" /></a></td>
     <td><a href="https://atef7534.github.io/Scrimba-challenges/github-contributions-graph/index.html"><img src="images/img-14.png" /></a></td>
-    <td><a href="https://atef7534.github.io/Scrimba-challenges/project-15/index.html"><img src="images/img-15.png" /></a></td>
+    <td><a href="https://atef7534.github.io/Scrimba-challenges/github-profile-layout/index.html"><img src="images/img-15.png" /></a></td>
   </tr>
   <tr>
     <td><a href="https://atef7534.github.io/Scrimba-challenges/instagram-stories-menu/index.html"><img src="images/img-16.png" /></a></td>
