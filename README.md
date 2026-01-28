@@ -71,8 +71,8 @@ Below are previews showcasing the final results of each challenge:
   </tr>
   <tr>
     <td><a href="https://atef7534.github.io/Scrimba-challenges/playing-card-ace-of-spades/index.html"><img src="images/img-21.png" /></a></td>
-    <td><a href="https://atef7534.github.io/Scrimba-challenges/playing-card-ace-of-hearts/index.html"><img src="images/img-22.png" /></a></td>
-    <td><a href="https://atef7534.github.io/Scrimba-challenges/spoiler-server/index.html"><img src="images/img-23.png" /></a></td>
+    <td><a href="https://atef7534.github.io/Scrimba-challenges/playing-card-four-of-hearts/index.html"><img src="images/img-22.png" /></a></td>
+    <td><a href="https://atef7534.github.io/Scrimba-challenges/spoiler-revealer/index.html"><img src="images/img-23.png" /></a></td>
     <td><a href="https://atef7534.github.io/Scrimba-challenges/toggle-switch/index.html"><img src="images/img-24.png" /></a></td>
     <td><a href="https://atef7534.github.io/Scrimba-challenges/word-carousel/index.html"><img src="images/img-25.png" /></a></td>
   </tr>
