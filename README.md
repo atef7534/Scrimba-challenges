@@ -64,7 +64,7 @@ Below are previews showcasing the final results of each challenge:
   </tr>
   <tr>
     <td><a href="https://atef7534.github.io/Scrimba-challenges/instagram-stories-menu/index.html"><img src="images/img-16.png" /></a></td>
-    <td><a href="https://atef7534.github.io/Scrimba-challenges/jeopard-card-flip/index.html"><img src="images/img-17.png" /></a></td>
+    <td><a href="https://atef7534.github.io/Scrimba-challenges/jeopardy-card-flip/index.html"><img src="images/img-17.png" /></a></td>
     <td><a href="https://atef7534.github.io/Scrimba-challenges/loading-animation-1/index.html"><img src="images/img-18.png" /></a></td>
     <td><a href="https://atef7534.github.io/Scrimba-challenges/loading-animation-2/index.html"><img src="images/img-19.png" /></a></td>
     <td><a href="https://atef7534.github.io/Scrimba-challenges/loading-animation-3/index.html"><img src="images/img-20.png" /></a></td>
